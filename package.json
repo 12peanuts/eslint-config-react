@@ -1,5 +1,5 @@
 {
-  "name": "@12peanuts/eslint-config",
+  "name": "@12peanuts/eslint-config-react",
   "version": "0.0.1",
   "description": "eslint configuration for react and react-native projects.",
   "main": "index.js",
@@ -30,10 +30,10 @@
   "author": "hx2ryu <hx2ryu@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/12peanuts/eslint-config"
+    "url": "https://github.com/12peanuts/eslint-config-react"
   },
   "bugs": {
-    "url": "https://github.com/12peanuts/eslint-config/issues"
+    "url": "https://github.com/12peanuts/eslint-config-react/issues"
   },
   "license": "MIT"
 }
