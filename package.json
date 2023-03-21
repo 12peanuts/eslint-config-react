@@ -1,0 +1,33 @@
+{
+  "name": "@12peanuts/eslint-config",
+  "version": "0.0.1",
+  "description": "eslint configuration for react and react-native projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=3",
+    "prettier": ">=2"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslint-config",
+    "react",
+    "react-native"
+  ],
+  "author": "hx2ryu <hx2ryu@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/12peanuts/eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/12peanuts/eslint-config/issues"
+  },
+  "license": "MIT"
+}
